@@ -1,0 +1,15 @@
+{
+  "short_name": "Montreal",
+  "name": "Montreal · Formación y aprendizaje",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#183d94",
+  "background_color": "#ffffff"
+}
